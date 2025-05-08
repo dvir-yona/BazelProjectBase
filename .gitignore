@@ -1,0 +1,6 @@
+/.cache/
+/MODULE.bazel.lock
+/.env
+/bazel-*
+/external
+/compile_commands.json
